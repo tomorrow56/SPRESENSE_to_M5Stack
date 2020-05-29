@@ -5,5 +5,5 @@
 ### ケースに装着した状態
 <img src="image/IMG_20200529_192441.jpg" alt="withcase" title="withcase" width="280">
 
-### シリアル経由でLCDに任意の文字表示
+### シリアル経由でLCDに任意の文字表示(動画へのリンク)
 [M5LCD](https://video.twimg.com/ext_tw_video/1266506357739409409/pu/vid/480x270/Aiy6zItiOErrypOG.mp4)
