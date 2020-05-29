@@ -6,4 +6,4 @@
 <img src="image/IMG_20200529_192441.jpg" alt="withcase" title="withcase" width="280">
 
 ### シリアル経由でLCDに任意の文字表示
-<img src="image/VID_20200502_140728.mp4" alt="M5LCD" title="M5LCD">
+[M5LCD](image/VID_20200502_140728.mp4)
