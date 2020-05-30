@@ -1,8 +1,9 @@
 # SPRESENSE_to_M5Stack
 <img src="image/top.jpg" alt="topview" title="topview" width="280">
 
-SPRESENSEをM-BUS経由でM5Stack とつなぐM5Stackの拡張モジュールです。
-IO電圧1.8V<->3.3Vの双方向レベルシフタ回路を搭載
+SPRESENSEをM-BUS経由でM5Stack とつなぐM5Stackの拡張モジュールです
+
+IO電圧1.8V<->3.3Vの双方向レベルシフタ回路を搭載しています
 
 ## 主な機能
 - 標準ボトムとLoPoバッテリーを共用(バッテリ切断用の物理スイッチ付)
