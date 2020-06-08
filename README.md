@@ -9,7 +9,6 @@ IO電圧1.8V<->3.3Vの双方向レベルシフタ回路を搭載しています
 - 標準ボトムとLoPoバッテリーを共用(バッテリ切断用の物理スイッチ付)
 - M5StackとSPRESENSEはSerial2で接続。コマンドのやり取りで双方を制御可能
 - 割り込み用にGPIOポートを接続、例えば「Deepsleepに入れたM5StackをSPRESENSEから起こす」という事が可能
-- M5StackのポートからSPRESENSEのReset端子を制御可能
 - 拡張モジュールボード上にSPRESENSEのI2CとADCのGrove互換コネクタを装備
 - 接続はSPRESENSEメインボード上面の低背ピンヘッダなので、Hirose 100Pinコネクタを使用する拡張ボードと共存可能
 
